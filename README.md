@@ -1,2 +1,2 @@
 # BIT-Internship-Group4
-Deep learning internship capstone project
+Deep learning internship Face Recognition project
